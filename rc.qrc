@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/8.jpg</file>
+        <file>image/12.jpg</file>
+        <file>image/13.jpg</file>
+        <file>image/14.jpg</file>
+        <file>image/16.jpg</file>
+        <file>image/a.jpg</file>
+        <file>image/b.jpg</file>
+        <file>image/c.jpg</file>
+        <file>image/d.jpg</file>
+        <file>image/down.png</file>
+        <file>image/ooopic_1463982717.png</file>
+        <file>image/ooopic_1463982721.png</file>
+        <file>image/ooopic_1463982728.png</file>
+        <file>image/ooopic_1463982733.png</file>
+        <file>image/ooopic_1463982739.png</file>
+        <file>image/ooopic_1463982743.png</file>
+        <file>image/ooopic_1463982753.png</file>
+        <file>image/ooopic_1463982760.png</file>
+        <file>image/ooopic_1463982774.png</file>
+        <file>image/ooopic_1463982778.png</file>
+        <file>image/ooopic_1463982782.png</file>
+        <file>image/ooopic_1463982789.png</file>
+        <file>image/ooopic_1463982804.png</file>
+        <file>image/style.css</file>
+        <file>image/top.png</file>
+        <file>image/多云.png</file>
+        <file>image/雷阵雨.png</file>
+        <file>image/晴.png</file>
+        <file>image/阵雨.png</file>
+        <file>image/array_down.png</file>
+        <file>image/fontawesome-webfont.ttf</file>
+        <file>image/haha.jpg</file>
+        <file>image/999.jpg</file>
+        <file>image/closebutton.jpg</file>
+    </qresource>
+</RCC>
